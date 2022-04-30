@@ -1038,7 +1038,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1e6dca6406875746a08fcd7392c8022, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uniqueName: Mczz5iQ44sxGDvTZaZ9b0RpKOwWbg2FYiU6vwIfrw4jhTFxBJd
+  uniqueName: GniZWefekbEYWs4AcpKjCFlusIEshwubeEh7a4oZER0uFBSFyN
   control_Type: 7
   text_Script: {fileID: 0}
   image_Script: {fileID: 0}
@@ -2754,7 +2754,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1e6dca6406875746a08fcd7392c8022, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uniqueName: lsVqIBJF1CCajBMVczYEPXtpROuY9TIOlng7hnmXmVUcijGH5b
+  uniqueName: BWZb3cgLWZfuQDC8mjjlCpoaVNVfWngbRgmk3nxhzPa2RLebYz
   control_Type: 7
   text_Script: {fileID: 0}
   image_Script: {fileID: 0}
@@ -2885,7 +2885,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -0.0000076293945, y: 1.1700134}
+  m_AnchoredPosition: {x: -0.0000076293945, y: 1.170044}
   m_SizeDelta: {x: 220, y: 30}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &682372593
@@ -3101,7 +3101,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1e6dca6406875746a08fcd7392c8022, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uniqueName: EQNo5p040UPcVUI8SMSju1iBE14FebgsbEfiAmO9zmKzPdViKL
+  uniqueName: IO2XYYxHiRuaFvVwOGtx2dQOcCKzo2iLunDOjwE5mBY0BgkO7A
   control_Type: 7
   text_Script: {fileID: 0}
   image_Script: {fileID: 0}
@@ -3423,7 +3423,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.94000006}
-  m_AnchoredPosition: {x: 127.20001, y: -11.035004}
+  m_AnchoredPosition: {x: 127.20007, y: -11.034973}
   m_SizeDelta: {x: -254.4, y: -22.070007}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &780353610
@@ -3627,7 +3627,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1e6dca6406875746a08fcd7392c8022, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uniqueName: 3hvpSH2w4cUUJzs7cwHFHh9NG7A1rBnCcfseH6AThKbf4MqOvA
+  uniqueName: yTaBWyf4vzkF0nyZWp1w9AWZSSzXNf9pvYxgK6XXSBsKDCz3k5
   control_Type: 4
   text_Script: {fileID: 0}
   image_Script: {fileID: 0}
@@ -5789,7 +5789,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -0.0000076293945, y: 1.1700134}
+  m_AnchoredPosition: {x: -0.0000076293945, y: 1.170044}
   m_SizeDelta: {x: 220, y: 30}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1289005225
@@ -6477,7 +6477,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1e6dca6406875746a08fcd7392c8022, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uniqueName: xlT6x64NhvQaVhGZh3nhId5LOgYisc8ICi3mOcUxGQgpd4xauf
+  uniqueName: Ao8JxI0VMUkjAldLST9nHUHA798ax7aOnzKd0VkgF1QC8XMkXy
   control_Type: 7
   text_Script: {fileID: 0}
   image_Script: {fileID: 0}
@@ -6871,7 +6871,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1e6dca6406875746a08fcd7392c8022, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uniqueName: E38HKmW3mniETG2QY4g0hmMpceZifgfULEn5ttVmSkvnzDXoIn
+  uniqueName: RoTj2QFK0wPrKmafWZGNly9o4QWmGiSPgXX8ALDziGiLWwdahI
   control_Type: 4
   text_Script: {fileID: 0}
   image_Script: {fileID: 0}
@@ -7270,7 +7270,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1e6dca6406875746a08fcd7392c8022, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uniqueName: sa1quQlTPvzkAIujyiCktSIbV6MtzNaX6fIkLvwoYDlVTdHmp3
+  uniqueName: Ol5PPhSCxtNmAtGLd6noNFMIVswVq1eRtJbFta5flW93EhACA0
   control_Type: 6
   text_Script: {fileID: 0}
   image_Script: {fileID: 0}
@@ -7324,7 +7324,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.94000006}
-  m_AnchoredPosition: {x: 127.20001, y: -11.035004}
+  m_AnchoredPosition: {x: 127.20007, y: -11.034973}
   m_SizeDelta: {x: -254.4, y: -22.070007}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1814659845
@@ -8004,7 +8004,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1e6dca6406875746a08fcd7392c8022, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uniqueName: WwZ0Lr3HmaHlkPfF8ewiPRcgnVv39wg2qXOwkuY1YT0WxRG2Mo
+  uniqueName: weYsCovcktaHCYjVsOCoizZbVYv4xMsw7flNHkvjZFUJfI7xqO
   control_Type: 7
   text_Script: {fileID: 0}
   image_Script: {fileID: 0}
@@ -8081,7 +8081,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000061035156, y: 0}
+  m_AnchoredPosition: {x: -0.00012207031, y: 0}
   m_SizeDelta: {x: 125, y: 26.600006}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &2387277441754064094
@@ -8259,7 +8259,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1e6dca6406875746a08fcd7392c8022, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uniqueName: 5fUvfmUqeCfPptB62WW2ih5FvOxaXudvuoG1rXCACttWfvcqMw
+  uniqueName: 9J4sioCVmZfp5YfZMffuax2dKbLugFiC4nDTkZYcMCkqgWOMuf
   control_Type: 4
   text_Script: {fileID: 0}
   image_Script: {fileID: 0}
@@ -8829,7 +8829,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 9.359955}
+  m_AnchoredPosition: {x: 0, y: 9.359985}
   m_SizeDelta: {x: 0, y: -18.720076}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &8224093912133818555
